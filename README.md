@@ -1,3 +1,7 @@
-React Burger Builder.
+# React Burger Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+A simple app to construct a burger. This website was built following a tutorial on Udemy. The tech used were React and Firebase.
+
+## Link project
+
+[Github Pages](https://herosimo.github.io/react-burger-builder/)
